@@ -1,0 +1,289 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 3111,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"settings":
+	{
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"ins",
+						"instances"
+					],
+					[
+						"se",
+						"selector"
+					]
+				]
+			},
+			"buffers":
+			[
+			],
+			"build_system": "Packages/Python/Python.sublime-build",
+			"build_system_choices":
+			[
+				[
+					[
+						[
+							"Packages/Python/Python.sublime-build",
+							""
+						],
+						[
+							"Packages/Python/Python.sublime-build",
+							"Syntax Check"
+						]
+					],
+					[
+						"Packages/Python/Python.sublime-build",
+						""
+					]
+				]
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 375.0,
+				"last_filter": "in",
+				"selected_items":
+				[
+					[
+						"in",
+						"Package Control: Install Package→安装插件"
+					],
+					[
+						"i",
+						"Package Control: Install Package→安装插件"
+					]
+				],
+				"width": 594.0
+			},
+			"console":
+			{
+				"height": 146.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Program Files (x86)/SublimeText/Sublime Text 3.3111-x64 by roustar31/Sublime Text 3x64/Data/Packages/User/python3_5.sublime-build",
+				"/C/Users/yopoing/Desktop/img2str_3.py",
+				"/E/教学/课程录制/3天免费试学课程/课件与案例/案例/img2str_3.py",
+				"/C/Users/yopoing/Documents/Workspace/Pycharm/pillow_demo/demo3.py",
+				"/C/Users/yopoing/Desktop/demo3.py",
+				"/E/教学/每周班会/PYTHON20160225/20160412/html+css/index.html",
+				"/E/教学/每周班会/PYTHON20160225/20160412/html+css/css/style.css",
+				"/C/Users/yopoing/Desktop/unwrap.html",
+				"/C/Users/yopoing/Desktop/teiba.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp46252/home/workspace/server_project/UdpServerData_supervisor.log",
+				"/C/Users/yopoing/AppData/Local/Temp/scp11939/home/workspace/server_project/UdpServerReg.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp12103/home/workspace/server_project/UdpServerData.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp46637/home/workspace/server_project/UdpServerReg_supervisor.log",
+				"/E/教学/每周班会/PYTHON20160225/20160510/product_pro_form/product/views.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp04191/home/workspace/server_project/UdpServerData_supervisor.log",
+				"/E/教学/每周班会/PYTHON20160525/20160706/实现一个记录函数日志的装饰器/python31.py",
+				"/E/教学/每周班会/PYTHON20160225/20160510/product_demo/product/views.py",
+				"/C/Users/yopoing/Downloads/2a48602e-3f46-11e6-8ea4-00163e004db2/priject10.py",
+				"/E/教学/每周班会/PYTHON20160225/20160412/实现一个记录函数日志的装饰器/python30.py",
+				"/E/教学/每周班会/PYTHON20160225/20160412/实现一个记录函数日志的装饰器/python31.py",
+				"/E/教学/每周班会/PYTHON20160525/20160706/demo/python30.py",
+				"/E/教学/每周班会/PYTHON20160525/20160706/demo/mydecorator.py",
+				"/E/教学/每周班会/PYTHON20160525/20160706/装饰器预习资料里面的代码/demo11.py",
+				"/C/Users/yopoing/Documents/Workspace/麦子学院/专业建设/3天免费试学/3天Python Web试学/优秀学员作品/dns_test.c",
+				"/C/Users/yopoing/Desktop/test.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp06113/home/workspace/server_project/UdpServerReg_supervisor.log",
+				"/E/Workspace_bak/maiziedu_lps_2_0/tornado_main.py",
+				"/E/教学/每周班会/PYTHON20160225/20160705/tornado_test/demo1/tweet_rate.py",
+				"/E/教学/每周班会/PYTHON20160225/20160705/tornado_test/demo1/tweet_rate_async.py",
+				"/E/教学/每周班会/PYTHON20160225/20160705/tornado_test/demo1/tweet_rate_gen.py",
+				"/E/教学/每周班会/PYTHON20160225/20160705/tornado_test/demo2/shopping_cart.py",
+				"/E/教学/每周班会/PYTHON20160225/20160705/tornado_test/demo2/templates/index.html",
+				"/C/Users/yopoing/AppData/Local/Temp/scp08469/home/workspace/server_project/UdpServerData_supervisor.log",
+				"/C/Users/yopoing/Documents/Workspace/Pycharm/scrapy_demo/scrapy_demo/items.py",
+				"/C/Users/yopoing/Documents/Workspace/Pycharm/scrapy_demo/scrapy_demo/spiders/dmoz_spider.py",
+				"/C/Users/yopoing/Downloads/dirbot-master/dirbot/spiders/dmoz.py",
+				"/C/Users/yopoing/Downloads/dirbot-master/dirbot/pipelines.py",
+				"/C/Users/yopoing/Downloads/dirbot-master/dirbot/items.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp57962/home/workspace/server_project/UdpServerReg_supervisor.log",
+				"/C/Users/yopoing/AppData/Local/Temp/scp03438/home/workspace/server_project/UdpServerReg.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp56142/home/workspace/server_project/UdpServerData.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp46541/home/workspace/server_project/UdpServerReg_supervisor.log",
+				"/C/Users/yopoing/AppData/Local/Temp/scp47062/home/workspace/server_project/UdpServerReg.py",
+				"/C/Users/yopoing/Downloads/3a3de666-2191-11e6-808c-00163e004db2/mysearch/search/views.py",
+				"/C/Users/yopoing/Downloads/5028d148-3fa0-11e6-9e5f-00163e005436/project.py",
+				"/C/Users/yopoing/Downloads/Project_Spider/MySpider.py",
+				"/C/Users/yopoing/Downloads/817c19d8-3dbd-11e6-8ccc-00163e005436/csshtml/css/style.css",
+				"/C/Users/yopoing/Downloads/df4e35d4-39dd-11e6-b105-00163e005436/OO_Homework_All.py",
+				"/C/Users/yopoing/Downloads/6228b26c-3ab1-11e6-a166-00163e005436/2_3_6Observer_Job.py",
+				"/C/Users/yopoing/Downloads/68171248-3d10-11e6-8b00-00163e004db2/guan_cha_zhe_mo_shi.py",
+				"/C/Users/yopoing/Downloads/10e44150-3cd2-11e6-ba93-00163e005436/asdf.py",
+				"/C/Users/yopoing/Downloads/264aac0a-3dc7-11e6-96e4-00163e004db2/douban_spider/douban_spider/douban_spider/douban_spider/spiders/movies.py",
+				"/C/Users/yopoing/Downloads/264aac0a-3dc7-11e6-96e4-00163e004db2/douban_spider/douban_spider/douban_spider/douban_spider/pipelines.py",
+				"/C/Users/yopoing/Downloads/264aac0a-3dc7-11e6-96e4-00163e004db2/douban_spider/douban_spider/douban_spider/douban_spider/items.py",
+				"/C/Users/yopoing/Downloads/6167873c-3d03-11e6-acff-00163e004db2/README.md",
+				"/C/Users/yopoing/Desktop/jzo2o.sql",
+				"/E/教学/每周班会/PYTHON20160525/20160629/oop_demo/demo1.py",
+				"/E/教学/每周班会/PYTHON20160525/20160629/oop_demo/demo2.py",
+				"/E/教学/每周班会/PYTHON20160525/20160629/oop_demo/demo3.py",
+				"/E/教学/每周班会/PYTHON20160525/20160629/oop_demo/demo4.py",
+				"/C/Users/yopoing/AppData/Local/Temp/scp15373/home/workspace/server_project/UdpServerReg_supervisor.log",
+				"/C/Users/yopoing/Desktop/tieba.py",
+				"/E/教学/每周班会/PYTHON20160225/20160628/tornado_test/demo1/tweet_rate.py",
+				"/C/Users/yopoing/Desktop/MySQL-python-1.2.5/site.cfg"
+			],
+			"find":
+			{
+				"height": 37.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"print",
+					"markupbase"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 37.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 186.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "Packages/User/python3_5.sublime-build",
+			"position": "0,2,2,-32000,-32000,-1,-1,631,105,32,1064",
+			"project": "",
+			"replace":
+			{
+				"height": 70.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
